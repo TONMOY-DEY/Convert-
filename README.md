@@ -7,5 +7,5 @@ This project demonstrates how to create a simple PDF file using Python. We use t
 - Python 3.x
 - Install `reportlab` library:
 
-bash
+```bash
 pip install reportlab
